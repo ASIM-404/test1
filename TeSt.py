@@ -155,9 +155,10 @@ def menu_apikey():
     │ [✓] GITHUB   : ASIM-404               │
     │ [✓] WHATSAPP :  +88 01828881765       │
     │ [✓] TOOLS    : \033[1;32m RANDOM NUMBER CLONER\033[1;37m  │
-    └───────────────────────────────────────┘""") 
-  print("\033[1;32     YOUR  KEY : "+id)
-  print("")                                          
+    └───────────────────────────────────────┘
+    │print("\033[1;32     YOUR  KEY : "+id)
+    │print("")
+    └───────────────────────────────────────┘""")                                           
   print("\t \033[1;32m  FIRST GET APPROVEL\033[1;37m ")
   print("")
   print(" \033[1;32m  THIS TOOLS IS PAID SO YOU NEED GET APPROVED FIRST\033[1;37m\n")
